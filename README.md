@@ -1,6 +1,6 @@
 # Omnilake Extensions Repository
 
-This repository holds extensions for to use with [OmniLake](https://github.com/caylent/omnilake) and [Omni](https://github.com/caylent/omni).
+This repository holds extensions for you to add to [OmniLake](https://github.com/caylent/omnilake) or use with [Omni](https://github.com/caylent/omni).
 
 ## Available Extensions
 
