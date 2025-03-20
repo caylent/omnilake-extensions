@@ -2,11 +2,7 @@
 
 This repository holds extensions for to use with [OmniLake](https://github.com/caylent/omnilake) and [Omni](https://github.com/caylent/omni).
 
-## Available OmniLake Extensions
-
-It's a little empty here...
-
-## Available Omni Extensions
+## Available Extensions
 
 It's a little empty here...
 
@@ -15,3 +11,5 @@ It's a little empty here...
 We welcome contributions!
 
 If you found a bug or want to submit a PR, this repository follows the same [contributing rules](https://github.com/caylent/omnilake/blob/main/CONTRIBUTING) as OmniLake's.
+
+You can find instructions on how to organize your extensions in the [/extensions/README.md](/extensions/README.md) file
